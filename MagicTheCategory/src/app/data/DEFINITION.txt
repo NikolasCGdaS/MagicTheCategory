@@ -1,0 +1,3 @@
+Aqui se centraliza as interfaces que ditam como cada modelo é e se comporta
+como o modelo de uma carta (nome, custo, tipo, etc)
+ou o modelo de como se compõe o deck

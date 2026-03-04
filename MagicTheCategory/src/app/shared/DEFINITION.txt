@@ -1,0 +1,4 @@
+Aqui são os componentes bastante utilizados em diversos tipos de classes diferentes
+como por exemplo componente para renderizar a imagem da carta
+componente que recebe strings e transforma em simbolos de mana
+Componente visual de carregando

@@ -1,0 +1,4 @@
+Aqui é tudo que somente se instancia uma vez
+Exemplos autenticação de login de usuário
+Serviço de conexão com api
+E classes de tratamentos de erro
