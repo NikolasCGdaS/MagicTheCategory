@@ -1,2 +1,0 @@
-Aqui se colocam os componentes de cada feature, ou seja, funcionalidade do app
-Como feature de deck-list ou componente que diz a curva de mana
